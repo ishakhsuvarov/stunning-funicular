@@ -1,7 +1,7 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://aemshop.net/graphql",
+      "commerce-core-endpoint": "https://main--stunning-funicular--ishakhsuvarov.aem.live/graphql",
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/K2jd66F51J6kACN1CYpSsx/graphql",
       "headers": {
         "all": {
