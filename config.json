@@ -1,25 +1,25 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://main--stunning-funicular--ishakhsuvarov.aem.live/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/K2jd66F51J6kACN1CYpSsx/graphql",
+      "commerce-core-endpoint": "https://aemshop.net/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
       "headers": {
         "all": {
           "Store": "default"
         },
         "cs": {
           "ac-channel-id": "9ced53d7-35a6-40c5-830e-8288c00985ad",
-          "ac-environment-id": "K2jd66F51J6kACN1CYpSsx",
+          "ac-environment-id": "Fwus6kdpvYCmeEdcCX7PZg",
           "ac-price-book-id": "west_coast_inc",
           "ac-scope-locale": "en-US"
         }
       },
       "analytics": {
         "base-currency-code": "USD",
-        "environment": "sandbox",
+        "environment": "Production",
         "store-id": 1,
         "store-name": "ACO Store",
-        "store-url": "https://main--stunning-funicular--ishakhsuvarov.aem.live/",
+        "store-url": "https://main--boilerplate-aco--adobe-commerce.aem.live",
         "store-view-id": 1,
         "store-view-name": "Default Store View",
         "website-id": 1,
